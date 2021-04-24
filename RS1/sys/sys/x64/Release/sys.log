@@ -1,0 +1,24 @@
+﻿  Building 'sys' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\sys.inf
+  Stamping [Version] section with DriverVer=04/25/2021,1.39.16.467
+  MyDriver.c
+e:\cs\ctf\win64\rs1\sys\mydriver.c(79): warning C4022: “PsLookupThreadByThreadId”: 指针与实参 1 不匹配
+e:\cs\ctf\win64\rs1\sys\mydriver.c(98): warning C4022: “PsLookupThreadByThreadId”: 指针与实参 1 不匹配
+  sys.vcxproj -> E:\cs\ctf\win64\RS1\sys\x64\Release\sys.sys
+  Done Adding Additional Store
+  Successfully signed: E:\cs\ctf\win64\RS1\sys\x64\Release\sys.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\cs\ctf\win64\RS1\sys\x64\Release\sys\sys.cat
+  Done Adding Additional Store
+  Successfully signed: E:\cs\ctf\win64\RS1\sys\x64\Release\sys\sys.cat
+  
