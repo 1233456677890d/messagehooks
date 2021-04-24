@@ -1,0 +1,85 @@
+﻿  main.cpp
+e:\cs\ctf\win64\exe\drvctrl.h(100): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\drvctrl.h(251): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: 参见“strncat”的声明
+e:\cs\ctf\win64\exe\drvctrl.h(292): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: 参见“strncat”的声明
+e:\cs\ctf\win64\exe\drvctrl.h(354): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: 参见“strncat”的声明
+e:\cs\ctf\win64\exe\main.cpp(61): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\main.cpp(67): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\main.cpp(73): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\main.cpp(80): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\main.cpp(196): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(211): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(236): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(246): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(261): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(266): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(276): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(290): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\cs\ctf\win64\exe\main.cpp(310): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HANDLE”
+e:\cs\ctf\win64\exe\main.cpp(313): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(365): warning C4311: “类型强制转换”: 从“PBYTE”到“unsigned int”的指针截断
+e:\cs\ctf\win64\exe\main.cpp(365): warning C4302: “类型强制转换”: 从“PBYTE”到“unsigned int”截断
+e:\cs\ctf\win64\exe\main.cpp(365): warning C4311: “类型强制转换”: 从“HMODULE”到“unsigned int”的指针截断
+e:\cs\ctf\win64\exe\main.cpp(365): warning C4302: “类型强制转换”: 从“HMODULE”到“unsigned int”截断
+e:\cs\ctf\win64\exe\main.cpp(373): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“HMValidateHandleFn”
+e:\cs\ctf\win64\exe\main.cpp(375): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“UINT64”
+  e:\cs\ctf\win64\exe\main.cpp(375): note: 请考虑在格式字符串中使用“%lld”
+  e:\cs\ctf\win64\exe\main.cpp(375): note: 请考虑在格式字符串中使用“%Id”
+  e:\cs\ctf\win64\exe\main.cpp(375): note: 请考虑在格式字符串中使用“%I64d”
+e:\cs\ctf\win64\exe\main.cpp(383): warning C4311: “类型强制转换”: 从“PVOID”到“DWORD”的指针截断
+e:\cs\ctf\win64\exe\main.cpp(383): warning C4302: “类型强制转换”: 从“PVOID”到“DWORD”截断
+e:\cs\ctf\win64\exe\main.cpp(416): warning C4244: “初始化”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+e:\cs\ctf\win64\exe\main.cpp(434): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HANDLE”
+e:\cs\ctf\win64\exe\main.cpp(435): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(436): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(439): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  e:\cs\ctf\win64\exe\main.cpp(439): note: 请考虑在格式字符串中使用“%x”
+  e:\cs\ctf\win64\exe\main.cpp(439): note: 请考虑在格式字符串中使用“%I32x”
+e:\cs\ctf\win64\exe\main.cpp(440): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  e:\cs\ctf\win64\exe\main.cpp(440): note: 请考虑在格式字符串中使用“%x”
+  e:\cs\ctf\win64\exe\main.cpp(440): note: 请考虑在格式字符串中使用“%I32x”
+e:\cs\ctf\win64\exe\main.cpp(441): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(452): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HANDLE”
+e:\cs\ctf\win64\exe\main.cpp(453): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(454): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+e:\cs\ctf\win64\exe\main.cpp(457): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  e:\cs\ctf\win64\exe\main.cpp(457): note: 请考虑在格式字符串中使用“%x”
+  e:\cs\ctf\win64\exe\main.cpp(457): note: 请考虑在格式字符串中使用“%I32x”
+e:\cs\ctf\win64\exe\main.cpp(458): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  e:\cs\ctf\win64\exe\main.cpp(458): note: 请考虑在格式字符串中使用“%x”
+  e:\cs\ctf\win64\exe\main.cpp(458): note: 请考虑在格式字符串中使用“%I32x”
+e:\cs\ctf\win64\exe\main.cpp(459): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PVOID”
+  exe.vcxproj -> E:\cs\ctf\win64\exe\x64\Debug\exe.exe
